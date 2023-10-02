@@ -77,3 +77,13 @@
 // }
 
 // console.log(oppositeBoolean(false))
+
+// Question 9
+// Is not zero 
+
+function isNotZero (bool){
+  return bool !== 0 
+}
+
+console.log(isNotZero(10))
+console.log(isNotZero(0))
