@@ -31,3 +31,39 @@
 // Question 4
 // Area of a Triangle
 
+// function calcTriangleArea(base , height){
+//     return 0.5 * base * height
+// }
+
+// console.log(calcTriangleArea(3,2))
+// console.log(calcTriangleArea(10,10))
+
+// Question 5
+// String Function 
+
+// function appendFrontend(text){
+//     return text + 'Frontend'
+// }
+
+// console.log(appendFrontend('Apple'))
+// console.log(appendFrontend('Banana'))
+// console.log(appendFrontend('Orange'))
+
+// Question 6
+// Greater than 100
+
+// function sumGreaterThan100 (num1 , num2){
+//    return num1 + num2 > 100
+// }
+
+// console.log(sumGreaterThan100(100, 10))
+
+// Question 7
+// Less than or Equal to 0
+
+function lessthanorEqualtoZero (num1){
+    return num1 <= 0
+}
+
+console.log(lessthanorEqualtoZero(-1))
+console.log(lessthanorEqualtoZero(25))
