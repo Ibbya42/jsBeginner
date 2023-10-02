@@ -61,9 +61,19 @@
 // Question 7
 // Less than or Equal to 0
 
-function lessthanorEqualtoZero (num1){
-    return num1 <= 0
-}
+// function lessthanorEqualtoZero (num1){
+//     return num1 <= 0
+// }
 
-console.log(lessthanorEqualtoZero(-1))
-console.log(lessthanorEqualtoZero(25))
+// console.log(lessthanorEqualtoZero(-1))
+// console.log(lessthanorEqualtoZero(25))
+
+
+// Question 8
+// Opposite Boolean 
+
+// function oppositeBoolean(bool){
+//    return !bool;
+// }
+
+// console.log(oppositeBoolean(false))
