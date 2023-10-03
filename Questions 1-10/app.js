@@ -87,3 +87,17 @@
 
 // console.log(isNotZero(10))
 // console.log(isNotZero(0))
+
+
+// Question 10
+// Calculate the remainder 
+
+function calcRemainder (num1 , num2){
+  // The percentage sign is used to find the remainder 
+  // of two numbers 
+  return num1 % num2;
+}
+
+console.log(calcRemainder(4,2))
+console.log(calcRemainder(7,8))
+console.log(calcRemainder(9,8))
