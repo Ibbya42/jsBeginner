@@ -23,9 +23,20 @@
 // Question 13
 // Logged in and Subscribed 
 
-function isLoggedInAndSubscribed(LoginStaus , SubscriptionStatus){
-    return (LoginStaus === 'LOGGED_IN' && SubscriptionStatus === 'SUBSCRIBED')   
-}
+// function isLoggedInAndSubscribed(LoginStaus , SubscriptionStatus){
+//     return (LoginStaus === 'LOGGED_IN' && SubscriptionStatus === 'SUBSCRIBED')   
+// }
 
-console.log(isLoggedInAndSubscribed('LOGGED_IN', 'SUBSCRIBED'))
-console.log(isLoggedInAndSubscribed('LOGGED_IN', 'UNSUBCRIBED'))
+// console.log(isLoggedInAndSubscribed('LOGGED_IN', 'SUBSCRIBED'))
+// console.log(isLoggedInAndSubscribed('LOGGED_IN', 'UNSUBCRIBED'))
+
+
+// // Question 14
+// // Logged in OR Subscribed 
+
+// function isLoggedInAndSubscribed(LoginStaus , SubscriptionStatus){
+//     return (LoginStaus === 'LOGGED_IN' || SubscriptionStatus === 'SUBSCRIBED')   
+// }
+
+// console.log(isLoggedInAndSubscribed('LOGGED_IN', 'SUBSCRIBED'))
+// console.log(isLoggedInAndSubscribed('LOGGED_IN', 'UNSUBCRIBED'))
